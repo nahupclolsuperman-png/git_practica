@@ -1,0 +1,1 @@
+Esta es una linea de texto en nota2.txt
